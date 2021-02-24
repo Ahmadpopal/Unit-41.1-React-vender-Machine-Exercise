@@ -1,0 +1,21 @@
+.Snacks-img {
+  height: 35%;
+  width: 50%;
+}
+
+.Snacks-Back-div {
+  background-color: rgb(32, 28, 28);
+  border: 1px solid white;
+  height: 10%;
+  left: 40%;
+  opacity: 0.8;
+  position: absolute;
+  top: 60%;
+  width: 20%;
+}
+
+.Snacks-Back-h3 {
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 20%;
+}
